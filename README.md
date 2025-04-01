@@ -21,7 +21,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://https://www.instagram.com/redteamwill?igsh=bWw4NDZ3bjEzNWlz&utm_source=qr
 [linkedin]: https://www.linkedin.com/in/william-d-johnny
 
 <!--
