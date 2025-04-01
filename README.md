@@ -3,7 +3,7 @@
 <h2>🛡️ Cybersecurity Projects:</h2>
 
 - <b>SOC Analysis Labs</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyzing a Suspicious File Found on Web Server](https://github.com/redteamwill/Analyzing-Suspicious-File)
 
 <h2>🔬 Malware Analysis:</h2>
 
