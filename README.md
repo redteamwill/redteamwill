@@ -22,7 +22,7 @@
 
 
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: www.linkedin.com/in/william-d-johnny
+[linkedin]: https://www.linkedin.com/in/william-d-johnny
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
