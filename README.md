@@ -6,7 +6,9 @@
   - [Analyzing a Suspicious File Found on Web Server](https://github.com/redteamwill/Analyzing-Suspicious-File)
 
  - <b>Threat Intelligence Labs</b>
-
+ - <b>Endpoint Forensics Labs</b>
+ - <b>Cloud Security Labs</b>
+  
 <h2>🔬 Malware Analysis/Reverse Engineering Projects:</h2>
 
 
