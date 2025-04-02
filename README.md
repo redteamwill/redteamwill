@@ -5,7 +5,7 @@
 - <b>SOC Analysis Labs</b>
   - [Analyzing a Suspicious File Found on Web Server](https://github.com/redteamwill/Analyzing-Suspicious-File)
 
-<h2>🔬 Malware Analysis/Reverse Engineering:</h2>
+<h2>🔬 Malware Analysis/Reverse Engineering Projects:</h2>
 
 
 <h2>👨‍💻 Programming Projects:</h2>
