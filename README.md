@@ -2,7 +2,7 @@
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 
-- <b>SOC Analysis Labs</b>
+- <b>Networking Labs</b>
   - [Analyzing a Suspicious File Found on Web Server](https://github.com/redteamwill/Analyzing-Suspicious-File)
 
 <h2>🔬 Malware Analysis/Reverse Engineering Projects:</h2>
